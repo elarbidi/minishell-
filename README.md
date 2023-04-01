@@ -1,9 +1,9 @@
 # I dont use BASH  i code my own 
 
-This is my a project on 42 Network 
+This is one of my favorit project on 42 Network 
 
-It's called Minishell but it have all what you will Need
+It's called Minishell but it have everything you will Need
 
-to istall this test it you will need to install READLINE.
+to run it first install READLINE.
 
 HAPPY CODING !
